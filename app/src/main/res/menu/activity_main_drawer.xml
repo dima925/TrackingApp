@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="PROMOVIDOS"
+            />
+        <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="PROMOTORES"/>
+        <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="GEO-REFERENCIA"/>
+        <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="MONITOREO"/>
+        <item
+                android:id="@+id/nav_manage1"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="ACCIONES"/>
+        <item
+                android:id="@+id/nav_manage2"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="REPORTES"/>
+        <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="MENSAJE"/>
+
+    </group>
+
+
+    <item android:title="REGISTROS">
+
+        <menu>
+            <item>PROMOTORES</item>
+        </menu>
+    </item>
+</menu>

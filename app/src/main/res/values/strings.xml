@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tesseract</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Tesseract</string>
+    <string name="username">USERNAME</string>
+    <string name="title_activity_otp_activity">OtpACtivity</string>
+
+    <!--new promoto page-->
+    <string name="promo_title">Population Data Entry</string>
+    <string name="promo_folio">Folio :</string>
+
+    <string-array name="vote_type">
+        <item>Dur.</item>
+        <item>Bla.</item>
+        <item>Pos.</item>
+        <item>Imp.</item>
+    </string-array>
+    <string-array name="mobile_app">
+        <item>If</item>
+        <item>Do not</item>
+    </string-array>
+    <string-array name="civil_status">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="level_of_influence">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="type_of_influence">
+        <item>Cele.</item>
+        <item>Prof.</item>
+        <item>Ciud.</item>
+    </string-array>
+    <string-array name="ambassador_network">
+        <item>If</item>
+        <item>Do not</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="promo_promoter">Promoter:</string>
+    <string name="promo_supervisor">Supervisor:</string>
+    <string name="promo_ine">INE key:</string>
+    <string name="promo_curp">CURP:</string>
+    <string name="promo_lastName">Last name:</string>
+    <string name="promo_MomLastName">Mother\'s last name:</string>
+    <string name="promo_firstName">First name:</string>
+    <string name="promo_secName">Second name:</string>
+    <string name="promo_birthDate">Birthdate:</string>
+    <string name="promo_entityBirthDate">Entity of Birth:</string>
+    <string name="promo_prefParty">Preferred Party:</string>
+    <string name="promo_voteType">Vote Type:</string>
+    <string name="promo_mobileApp">Mobile app:</string>
+    <string name="promo_section">Section:</string>
+    <string name="promo_street">Street:</string>
+    <string name="promo_outDoorNum">Outdoor Number:</string>
+    <string name="promo_colony">Colony:</string>
+    <string name="promo_postalCode">Postal Code:</string>
+    <string name="promo_city">City:</string>
+    <string name="promo_civilStatus">Civil status:</string>
+    <string name="promo_gender">Gender:</string>
+    <string name="promo_occupation">Occupation:</string>
+    <string name="promo_employStatus">Employment status:</string>
+    <string name="promo_childNum">Number of children:</string>
+    <string name="promo_goven">Government program:</string>
+    <string name="promo_homePhone">Home phone:</string>
+    <string name="promo_cellPhone">Cell phone:</string>
+    <string name="promo_email">Email:</string>
+    <string name="promo_facebookUrl">FaceBookURL:</string>
+    <string name="promo_facebookUser">Facebook User:</string>
+    <string name="promo_twitterUser">Twitter User:</string>
+    <string name="promo_googleUrl">Google+ URL:</string>
+    <string name="promo_googleUser">Google+ User:</string>
+    <string name="promo_instargramUser">Instagram User:</string>
+    <string name="promo_linkedInUser">Linked In User:</string>
+    <string name="promo_userOption">User options:</string>
+    <string name="promo_levelOfInfluence">Level of Influence:</string>
+    <string name="promo_typeOfInfluence">Type of Influence:</string>
+    <string name="promo_ammbsNet">Ambassador Network:</string>
+</resources>
+
